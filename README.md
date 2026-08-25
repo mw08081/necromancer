@@ -29,9 +29,9 @@
 
 구현 기술에 대한 주된 메커니즘들을 설명합니다
 
-[1. 글로벌 WAN 환경에서 Listen Server 기반 P2P 멀티플레이어 세션 생성](https://app.notion.com/p/1-WAN-Listen-Server-P2P-3c7ce4f4d10880ba971fc57e8f4d75ca?pvs=21) 
+[1. 글로벌 WAN 환경에서 Listen Server 기반 P2P 멀티플레이어 세션 생성](https://github.com/mw08081/necromancer/blob/main/README.md#1-%EA%B8%80%EB%A1%9C%EB%B2%8C-wan-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-listen-server-%EA%B8%B0%EB%B0%98-p2p-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%84%B8%EC%85%98-%EC%83%9D%EC%84%B1)  
 
-[2. 호스트-클라이언트 간 상태 동기화를 이용한 관전 시스템 개발](https://app.notion.com/p/2-3c7ce4f4d108803c8d4df7591c5c8616?pvs=21) 
+[2. 호스트-클라이언트 간 상태 동기화를 이용한 관전 시스템 개발](https://github.com/mw08081/necromancer/blob/main/README.md#2-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EA%B0%84-%EC%83%81%ED%83%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B4%80%EC%A0%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C)  
 
 </blockquote>
 
@@ -236,9 +236,9 @@ else
 
 주요 트러블 슈팅에 관해서 설명합니다.
 
-[1. 클라이언트 카메라 회전값 복제(Replication) 누락 문제 해결](https://app.notion.com/p/1-Replication-3c7ce4f4d1088060ac06eef7c0399d5f?pvs=21) 
+[1. 클라이언트 카메라 회전값 복제(Replication) 누락 문제 해결](https://github.com/mw08081/necromancer/blob/main/README.md#1-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC-%ED%9A%8C%EC%A0%84%EA%B0%92-%EB%B3%B5%EC%A0%9Creplication-%EB%88%84%EB%9D%BD-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)   
 
-[2. 다수 인원 참여 시 과도한 네트워크 RPC 및 패킷 폭증에 따른 랙(Lag) 개선](https://app.notion.com/p/2-RPC-Lag-3c7ce4f4d10880adbb07e9bfc876c438?pvs=21) 
+[2. 다수 인원 참여 시 과도한 네트워크 RPC 및 패킷 폭증에 따른 랙(Lag) 개선](https://github.com/mw08081/necromancer/blob/main/README.md#2-%EB%8B%A4%EC%88%98-%EC%9D%B8%EC%9B%90-%EC%B0%B8%EC%97%AC-%EC%8B%9C-%EA%B3%BC%EB%8F%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-rpc-%EB%B0%8F-%ED%8C%A8%ED%82%B7-%ED%8F%AD%EC%A6%9D%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%9E%99lag-%EA%B0%9C%EC%84%A0)  
 
 </blockquote>
 
