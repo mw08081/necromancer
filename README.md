@@ -93,8 +93,8 @@ void ANecLobbyPlayerController::OnCreateSessionComplete(FName SessionName, bool 
 	}
 }
 ```
+<img width="616" height="321" alt="etner_ls" src="https://github.com/user-attachments/assets/7179849b-23dd-49cc-bbe3-01857bf72bfd" />
 
-![etner_ls.gif](%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/etner_ls.gif)
 
 - 세션 생성 이후 Steam ExternalUIInterace를 활용하여 간편하게 친구 초대 로직을 구현
 
@@ -126,10 +126,9 @@ void ANecLobbyPlayerController::OnInviteAccepted(bool bWasSuccessful, int32 Loca
 	}
 }
 ```
+<img width="432" height="399" alt="image" src="https://github.com/user-attachments/assets/3163b24f-d5bb-4e6b-bcef-815032a57fe8" />
 
-![image.png](%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/image.png)
-
-![move.gif](%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/move.gif)
+<img width="817" height="446" alt="move" src="https://github.com/user-attachments/assets/ceb17a9f-0eae-4e1a-b61b-5026519de857" />
 
 </blockquote>
 
@@ -211,11 +210,10 @@ else
 
 결과
 
-![사망 후 생존한 플레이어를 찾아 관전 모드 진입](%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/rhkswjs2.gif)
-
+<img width="835" height="482" alt="rhkswjs2" src="https://github.com/user-attachments/assets/241330f7-e47c-4b73-a534-e9a4802a2ad3" />
 사망 후 생존한 플레이어를 찾아 관전 모드 진입
 
-![관전자의 카메라 시점까지 복제하여 동기화](%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4/rhkswjs3.gif)
+<img width="660" height="237" alt="rhkswjs3" src="https://github.com/user-attachments/assets/29184001-d8a2-4847-8939-f3e8e7eb162c" />
 
 관전자의 카메라 시점까지 복제하여 동기화
 
